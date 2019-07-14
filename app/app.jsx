@@ -9,6 +9,6 @@ $(document).foundation();
 //CSS
 require('style!css!sass!applicationStyles')
 ReactDOM.render(
-  <p>BoilerPlate3</p>,
+  <p>BoilerPlate</p>,
   document.getElementById('app')
 );
