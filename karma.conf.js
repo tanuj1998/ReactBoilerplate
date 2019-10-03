@@ -19,6 +19,7 @@ module.exports = function (config) {
       timeout: '5000'
     }
   },
+    
   webpack: webpackConfig,
   webpackServer: {
     noInfo: true
